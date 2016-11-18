@@ -1,10 +1,11 @@
 //
 //  IQuizUITests.swift
-//  IQuizUITests
+//  IQuiz
 //
-//  Created by Litthideth Phansiri on 11/2/16.
-//  Copyright © 2016 Lit Phansiri. All rights reserved.
+//  Created by Rohan Thakkar on 11/15/16.
+//  Copyright © 2016 Rohan Thakkar. All rights reserved.
 //
+
 
 import XCTest
 
