@@ -1,9 +1,10 @@
 //
 //  SubjectsTableViewCell.swift
-//  IQuiz
+//  iQuiz
 //
-//  Created by Litthideth Phansiri on 11/2/16.
+//  Created by Rohan Thakkar on 11/15/16.
 //  Copyright © 2016 Lit Phansiri. All rights reserved.
+
 //
 
 import UIKit
@@ -16,13 +17,11 @@ class SubjectsTableViewCell: UITableViewCell {
     
     override func awakeFromNib() {
         super.awakeFromNib()
-        // Initialization code
     }
 
     override func setSelected(_ selected: Bool, animated: Bool) {
         super.setSelected(selected, animated: animated)
 
-        // Configure the view for the selected state
     }
 
 }

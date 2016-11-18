@@ -1,9 +1,10 @@
 //
 //  SubjectAddViewController.swift
-//  IQuiz
+//  iQuiz
 //
-//  Created by Litthideth Phansiri on 11/3/16.
+//  Created by Rohan Thakkar on 11/15/16.
 //  Copyright © 2016 Lit Phansiri. All rights reserved.
+
 //
 
 import UIKit
@@ -49,15 +50,5 @@ class SubjectAddViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
-
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destinationViewController.
-        // Pass the selected object to the new view controller.
-    }
-    */
 
 }
